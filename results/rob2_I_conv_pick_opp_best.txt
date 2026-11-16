@@ -1,0 +1,1 @@
+runs/I_conv_pick_opp/best.safetensors: mean=72.98 std=17.55 min=-16.1 bad(<20)=3/100

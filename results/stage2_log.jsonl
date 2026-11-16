@@ -1,0 +1,10 @@
+{"steps": 100000, "updates": 4999, "eps": 0.0, "val_mean": 72.39, "val_std": 16.32, "best": 72.39, "train_ep_return": 69.21, "sec": 139}
+{"steps": 200000, "updates": 11249, "eps": 0.0, "val_mean": 73.72, "val_std": 12.87, "best": 73.72, "train_ep_return": 72.47, "sec": 300}
+{"steps": 300000, "updates": 17499, "eps": 0.0, "val_mean": 76.78, "val_std": 11.31, "best": 76.78, "train_ep_return": 74.8, "sec": 462}
+{"steps": 400000, "updates": 23749, "eps": 0.0, "val_mean": 71.36, "val_std": 30.18, "best": 76.78, "train_ep_return": 72.27, "sec": 633}
+{"steps": 500000, "updates": 29999, "eps": 0.0, "val_mean": 76.32, "val_std": 14.98, "best": 76.78, "train_ep_return": 74.81, "sec": 800}
+{"steps": 600000, "updates": 36249, "eps": 0.0, "val_mean": 76.57, "val_std": 17.99, "best": 76.78, "train_ep_return": 76.5, "sec": 959}
+{"steps": 700000, "updates": 42499, "eps": 0.0, "val_mean": 78.1, "val_std": 14.45, "best": 78.1, "train_ep_return": 80.48, "sec": 1110}
+{"steps": 800000, "updates": 48749, "eps": 0.0, "val_mean": 78.68, "val_std": 14.24, "best": 78.68, "train_ep_return": 79.48, "sec": 1265}
+{"steps": 900000, "updates": 54999, "eps": 0.0, "val_mean": 76.51, "val_std": 21.91, "best": 78.68, "train_ep_return": 79.61, "sec": 1417}
+{"steps": 1000000, "updates": 61249, "eps": 0.0, "val_mean": 82.69, "val_std": 11.76, "best": 82.69, "train_ep_return": 81.62, "sec": 1567}

@@ -1,0 +1,1 @@
+runs/K_A_ft_greedy/last.safetensors: mean=84.34 std=14.30 min=-3.5 bad(<20)=1/100

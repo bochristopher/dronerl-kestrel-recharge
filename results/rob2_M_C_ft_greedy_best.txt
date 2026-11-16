@@ -1,0 +1,1 @@
+runs/M_C_ft_greedy/best.safetensors: mean=80.05 std=18.68 min=-15.1 bad(<20)=3/100

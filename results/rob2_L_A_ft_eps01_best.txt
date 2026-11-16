@@ -1,0 +1,1 @@
+runs/L_A_ft_eps01/best.safetensors: mean=80.98 std=15.63 min=-13.0 bad(<20)=1/100
